@@ -1,0 +1,18 @@
+2025-03-24 20:12:19,212 INFO - Starting the scheduler
+2025-03-24 20:12:19,213 INFO - Processing each file at most -1 times
+2025-03-24 20:12:19,217 INFO - Launched DagFileProcessorManager with pid: 24952
+2025-03-24 20:12:19,218 INFO - Resetting orphaned tasks for active dag runs
+2025-03-24 20:12:19,225 INFO - Configured default timezone Timezone('UTC')
+2025-03-24 20:17:19,412 INFO - Resetting orphaned tasks for active dag runs
+2025-03-24 20:22:19,546 INFO - Resetting orphaned tasks for active dag runs
+2025-03-24 20:27:19,682 INFO - Resetting orphaned tasks for active dag runs
+2025-03-24 20:32:19,817 INFO - Resetting orphaned tasks for active dag runs
+2025-03-24 20:37:19,948 INFO - Resetting orphaned tasks for active dag runs
+2025-03-24 20:38:05,892 INFO - Exiting gracefully upon receiving signal 15
+2025-03-24 20:38:06,896 INFO - Sending Signals.SIGTERM to group 24952. PIDs of all processes in the group: [24952]
+2025-03-24 20:38:06,896 INFO - Sending the signal Signals.SIGTERM to group 24952
+2025-03-24 20:38:07,112 INFO - Process psutil.Process(pid=24952, status='terminated', exitcode=0, started='20:12:19') (24952) terminated with exit code 0
+2025-03-24 20:38:07,114 INFO - Sending Signals.SIGTERM to group 24952. PIDs of all processes in the group: []
+2025-03-24 20:38:07,114 INFO - Sending the signal Signals.SIGTERM to group 24952
+2025-03-24 20:38:07,114 INFO - Sending the signal Signals.SIGTERM to process 24952 as process group is missing.
+2025-03-24 20:38:07,115 INFO - Exited execute loop

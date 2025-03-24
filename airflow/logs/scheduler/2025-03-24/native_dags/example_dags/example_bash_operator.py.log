@@ -1,0 +1,221 @@
+[2025-03-24T20:13:09.611+0000] {processor.py:157} INFO - Started process (PID=25352) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:13:09.611+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:13:09.612+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:09.612+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:13:09.628+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:13:09.721+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:09.721+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-03-24T20:13:09.729+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:09.729+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-03-24T20:13:09.735+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:09.735+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-03-24T20:13:09.743+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:09.743+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:13:09.750+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:09.750+0000] {dag.py:2763} INFO - Creating ORM DAG for example_bash_operator
+[2025-03-24T20:13:09.757+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:09.757+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:13:09.773+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.172 seconds
+[2025-03-24T20:13:57.331+0000] {processor.py:157} INFO - Started process (PID=25676) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:13:57.331+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:13:57.332+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:57.332+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:13:57.340+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:13:57.357+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:57.357+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:13:57.372+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:13:57.372+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:13:57.387+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2025-03-24T20:14:49.896+0000] {processor.py:157} INFO - Started process (PID=26037) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:14:49.896+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:14:49.897+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:14:49.897+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:14:49.907+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:14:49.926+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:14:49.926+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:14:49.941+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:14:49.941+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:14:49.956+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2025-03-24T20:15:50.392+0000] {processor.py:157} INFO - Started process (PID=26446) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:15:50.392+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:15:50.393+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:15:50.393+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:15:50.401+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:15:50.418+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:15:50.418+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:15:50.434+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:15:50.433+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:15:50.449+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:16:37.450+0000] {processor.py:157} INFO - Started process (PID=26751) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:16:37.451+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:16:37.452+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:16:37.451+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:16:37.459+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:16:37.476+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:16:37.476+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:16:37.490+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:16:37.490+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:16:37.506+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2025-03-24T20:17:25.170+0000] {processor.py:157} INFO - Started process (PID=27069) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:17:25.171+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:17:25.172+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:17:25.171+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:17:25.180+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:17:25.197+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:17:25.196+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:17:25.212+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:17:25.212+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:17:25.227+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2025-03-24T20:18:10.165+0000] {processor.py:157} INFO - Started process (PID=27374) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:18:10.166+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:18:10.167+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:18:10.167+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:18:10.180+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:18:10.198+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:18:10.198+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:18:10.213+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:18:10.213+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:18:10.228+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2025-03-24T20:19:04.913+0000] {processor.py:157} INFO - Started process (PID=27738) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:19:04.913+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:19:04.914+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:19:04.914+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:19:04.922+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:19:04.939+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:19:04.939+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:19:04.954+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:19:04.954+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:19:04.969+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:19:51.021+0000] {processor.py:157} INFO - Started process (PID=28075) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:19:51.022+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:19:51.023+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:19:51.022+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:19:51.031+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:19:51.049+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:19:51.049+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:19:51.064+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:19:51.064+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:19:51.079+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T20:20:37.767+0000] {processor.py:157} INFO - Started process (PID=28401) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:20:37.767+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:20:37.768+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:20:37.768+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:20:37.776+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:20:37.792+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:20:37.792+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:20:37.807+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:20:37.807+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:20:37.822+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2025-03-24T20:21:24.917+0000] {processor.py:157} INFO - Started process (PID=28774) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:21:24.917+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:21:24.918+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:21:24.918+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:21:24.926+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:21:24.943+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:21:24.943+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:21:24.957+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:21:24.957+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:21:24.972+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2025-03-24T20:22:12.591+0000] {processor.py:157} INFO - Started process (PID=29118) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:22:12.591+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:22:12.592+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:22:12.592+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:22:12.600+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:22:12.617+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:22:12.617+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:22:12.632+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:22:12.632+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:22:12.647+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2025-03-24T20:23:11.886+0000] {processor.py:157} INFO - Started process (PID=29568) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:23:11.887+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:23:11.888+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:23:11.887+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:23:11.896+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:23:11.913+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:23:11.913+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:23:11.928+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:23:11.927+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:23:11.943+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:23:55.287+0000] {processor.py:157} INFO - Started process (PID=29955) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:23:55.288+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:23:55.289+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:23:55.288+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:23:55.297+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:23:55.314+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:23:55.314+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:23:55.328+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:23:55.328+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:23:55.343+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.057 seconds
+[2025-03-24T20:24:41.658+0000] {processor.py:157} INFO - Started process (PID=30275) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:24:41.658+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:24:41.659+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:24:41.659+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:24:41.667+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:24:41.683+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:24:41.683+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:24:41.701+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:24:41.701+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:24:41.721+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2025-03-24T20:25:39.269+0000] {processor.py:157} INFO - Started process (PID=30721) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:25:39.269+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:25:39.270+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:25:39.270+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:25:39.278+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:25:39.295+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:25:39.294+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:25:39.309+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:25:39.309+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:25:39.324+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.057 seconds
+[2025-03-24T20:26:25.577+0000] {processor.py:157} INFO - Started process (PID=31062) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:26:25.578+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:26:25.578+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:26:25.578+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:26:25.586+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:26:25.604+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:26:25.604+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:26:25.619+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:26:25.619+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:26:25.633+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:27:10.483+0000] {processor.py:157} INFO - Started process (PID=31488) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:27:10.484+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:27:10.485+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:27:10.484+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:27:10.492+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:27:10.510+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:27:10.509+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:27:10.525+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:27:10.525+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:27:10.541+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:28:09.877+0000] {processor.py:157} INFO - Started process (PID=31965) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:28:09.877+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:28:09.878+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:28:09.878+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:28:09.886+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:28:09.903+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:28:09.902+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:28:09.917+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:28:09.917+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:28:09.932+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.057 seconds
+[2025-03-24T20:29:07.566+0000] {processor.py:157} INFO - Started process (PID=32390) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:29:07.567+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:29:07.567+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:29:07.567+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:29:07.575+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:29:07.592+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:29:07.592+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:29:07.607+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:29:07.606+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:29:07.621+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.057 seconds
+[2025-03-24T20:29:53.754+0000] {processor.py:157} INFO - Started process (PID=32708) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:29:53.755+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:29:53.755+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:29:53.755+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:29:53.764+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:29:53.782+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:29:53.782+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:29:53.797+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:29:53.797+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:29:53.813+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T20:30:49.191+0000] {processor.py:157} INFO - Started process (PID=33082) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:30:49.192+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:30:49.193+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:30:49.192+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:30:49.204+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:30:49.229+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:30:49.229+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:30:49.250+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:30:49.250+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:30:49.266+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.078 seconds
+[2025-03-24T20:31:32.566+0000] {processor.py:157} INFO - Started process (PID=33370) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:31:32.566+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:31:32.567+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:31:32.567+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:31:32.579+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:31:32.607+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:31:32.607+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:31:32.630+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:31:32.630+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:31:32.650+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.087 seconds
+[2025-03-24T20:32:30.147+0000] {processor.py:157} INFO - Started process (PID=33761) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:32:30.147+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:32:30.148+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:32:30.148+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:32:30.156+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:32:30.174+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:32:30.173+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:32:30.189+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:32:30.189+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:32:30.204+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T20:33:16.987+0000] {processor.py:157} INFO - Started process (PID=34172) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:33:16.988+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:33:16.989+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:33:16.988+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:33:16.996+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:33:17.014+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:33:17.013+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:33:17.029+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:33:17.029+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:33:17.044+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:34:04.660+0000] {processor.py:157} INFO - Started process (PID=34493) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:34:04.660+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:34:04.661+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:34:04.661+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:34:04.669+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:34:04.687+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:34:04.687+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:34:04.702+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:34:04.702+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:34:04.717+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:34:49.065+0000] {processor.py:157} INFO - Started process (PID=34794) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:34:49.065+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:34:49.066+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:34:49.066+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:34:49.074+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:34:49.091+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:34:49.091+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:34:49.107+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:34:49.106+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:34:49.122+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T20:35:35.564+0000] {processor.py:157} INFO - Started process (PID=35102) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:35:35.564+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:35:35.565+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:35:35.565+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:35:35.575+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:35:35.594+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:35:35.594+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:35:35.609+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:35:35.608+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:35:35.625+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2025-03-24T20:36:33.504+0000] {processor.py:157} INFO - Started process (PID=35504) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:36:33.504+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:36:33.505+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:36:33.505+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:36:33.514+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:36:33.532+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:36:33.532+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:36:33.548+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:36:33.547+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:36:33.562+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T20:37:20.052+0000] {processor.py:157} INFO - Started process (PID=35860) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:37:20.053+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:37:20.053+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:37:20.053+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:37:20.062+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:37:20.080+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:37:20.080+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:37:20.096+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:37:20.096+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:37:20.110+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T20:38:04.635+0000] {processor.py:157} INFO - Started process (PID=36177) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:38:04.635+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T20:38:04.636+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:38:04.636+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:38:04.648+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T20:38:04.666+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:38:04.666+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-03-24T20:38:04.681+0000] {logging_mixin.py:150} INFO - [2025-03-24T20:38:04.681+0000] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2025-03-23T00:00:00+00:00, run_after=2025-03-24T00:00:00+00:00
+[2025-03-24T20:38:04.696+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
